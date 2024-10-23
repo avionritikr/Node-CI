@@ -1,0 +1,16 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js test application with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",        // Add a start script for running the app
+    "test": "echo \"No tests yet\" && exit 0"  // Update test script
+  },
+  "keywords": ["node", "express", "test", "app"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
